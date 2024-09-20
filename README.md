@@ -1,1 +1,2 @@
 # learn-github
+Lorem Ipsum is a simple replica of content used in the printing or typesetting business. It has been the standard simulation of the business since the 16th century, when a no-name printer used a print rail to shuffle the position of the letters to make a sample book. It became more popular in the 1960s when Letraset was released with Lorem Ipsum text on it, and more recently, when desktop publishing software such as Aldus PageMaker incorporated different versions of Lorem Ipsum into the software.
